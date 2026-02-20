@@ -1,6 +1,6 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
-Name: Sai Hemanth Kumar P
-Register Number:212224080049
+<h3>Name: Sai Hemanth Kumar P </h3>
+<h3>Register Number:212224080049 </h3>
 
 Breadth First Search Traversal of a Graph
 
